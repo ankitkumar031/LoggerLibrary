@@ -1,0 +1,10 @@
+{ts_format:21/10/2022 05:57:02
+sink_type:FILE
+file_location:C:/Users/ANKIT KUMAR/Desktop/Development/Java/JavaPrograms/Logger Library/logs/LogFile1.txt
+log_level:ERROR
+ERROR : DISPLAYING ERROR}
+{ts_format:21/10/2022 05:57:02
+sink_type:FILE
+file_location:C:/Users/ANKIT KUMAR/Desktop/Development/Java/JavaPrograms/Logger Library/logs/LogFile1.txt
+log_level:FATAL
+FATAL : DISPLAYING FATAL}
